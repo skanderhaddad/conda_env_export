@@ -42,3 +42,8 @@ This script uses part of the gist you can find here:
 https://gist.github.com/gwerbin/dab3cf5f8db07611c6e0aeec177916d8  
 and this github repo:   
 https://github.com/andresberejnoi/PublicNotebooks/tree/master/Conda%20Tools
+
+
+#### Fix #9628 and add more conda env export flexibility
+
+This is an open issue that aims to fix #9628 and add more flexibility to the `conda env export` functionality. It provides enhanced capabilities for exporting conda environments. For more details, refer to [Pull Request #11532](https://github.com/conda/conda/pull/11532).
