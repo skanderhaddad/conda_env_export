@@ -40,5 +40,5 @@ but including pip packages as well as conda channel.
 Credits:
 This script uses part of the gist you can find here:
 https://gist.github.com/gwerbin/dab3cf5f8db07611c6e0aeec177916d8  
-and this github repo: 
+and this github repo:   
 https://github.com/andresberejnoi/PublicNotebooks/tree/master/Conda%20Tools
